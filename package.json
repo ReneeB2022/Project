@@ -1,0 +1,22 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Our project will be the University of Belize Club management system.\r This system as the name implies will be used to keep track of all clubs at UB, their events etc.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReneeB2022/Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ReneeB2022/Project/issues"
+  },
+  "homepage": "https://github.com/ReneeB2022/Project#readme"
+}
